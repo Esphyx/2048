@@ -24,7 +24,7 @@ To get to play the game for yourself, follow these steps:
 
 0. ### Prerequisites
 
-   Make sure you are using a [Bash](https://www.gnu.org/software/bash/)-like shell while executing compile.sh and run.sh or any of the binaries  
+   Make sure you are using a [Bash](https://www.gnu.org/software/bash/)-like shell while executing compile.sh or any of the binaries  
    Make sure you have both [Git](https://github.com/git-guides/install-git) and the [GCC](https://gcc.gnu.org/) C++ compiler installed on your system.
 
 1. ### Clone the Repository:
