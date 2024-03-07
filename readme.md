@@ -43,5 +43,5 @@ git clone https://github.com/Esphyx/2048.git
 3. ### Run the Code and Play!
 
 ```bash
-./run.sh
+./main
 ```
