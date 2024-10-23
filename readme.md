@@ -6,7 +6,7 @@ This repository contains a basic 2048 clone written in C++. This reimplementatio
 
 ## Features
 
-To provide an almost identical 2048 experience, the simulacrum tries to reproduce the core gameplay of the original game, including correct merge detection order and the ommission of new tiles whilst being directionally immobile.
+To provide an almost identical 2048 experience, the above tries to reproduce the core gameplay of the original game, including correct merge detection order and the ommission of new tiles whilst being directionally immobile.
 
 ## User Interface - I/O
 
